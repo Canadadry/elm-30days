@@ -1,4 +1,8 @@
-# Elm 30 days
+# Elm 30 days challenge
+
+My main objective is to learn enough go to start building real world app with it. 
+
+But like everyone I'm blocked by a syntax I don't understand and feel a bit overwhelmed. I already know the basic `init`, `update`, `view` which are awesome by the way.
 
 This is an attempt to write a small bite of elm code everyday
 
