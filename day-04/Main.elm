@@ -126,7 +126,7 @@ update msg model =
             if c.hasMine then 
                 model 
             else 
-            { field = updateAllNeighbourgCell model.field c
+            { field = updateAllNeighbourgCellOf model.field c
             , numberOfMine = model.numberOfMine + 1
             }
 
