@@ -12,5 +12,6 @@ This is an attempt to write a small bite of elm code everyday
  - Day 4: a minesweeper : the neighbour stuff and placing mine
  - Day 5: a random int generator and suffling list
  - Day 6: conway game of life 
+ - Day 7: a sudoku grid
  
  PS: I use http://ellie-app.com to write those small challenges. It allow me to code on my ipad which I love.
