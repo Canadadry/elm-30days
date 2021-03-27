@@ -14,5 +14,6 @@ This is an attempt to write a small bite of elm code everyday
  - Day 6: conway game of life 
  - Day 7: a sudoku grid editor
  - Day 8: removing duplicated
+ - Day 9: a sudoku grid validator
  
  PS: I use http://ellie-app.com to write those small challenges. It allow me to code on my ipad which I love.
