@@ -17,5 +17,6 @@ This is an attempt to write a small bite of elm code everyday
  - Day 9: a sudoku grid validator
  - Day 10: Raycasting viewer
  - Day 11: Raycasting viewer
+ - Day 12: Json 
 
  PS: I use http://ellie-app.com to write those small challenges. It allow me to code on my ipad which I love.

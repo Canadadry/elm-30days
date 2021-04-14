@@ -1,0 +1,20 @@
+{
+    "firstname":"clark",
+    "lastname":"kend",
+    "realname":"kal-el",
+    "surname":"superman",
+    "job":"reporter",
+    "address":"the big farm in smallville",
+    "friend":[
+        {
+            "lastname":"lane",
+            "firstname":"lois",
+            "relationship":"lover"
+        },
+        {
+            "lastname":"who knows",
+            "firstname":"jimmy",
+            "relationship":"cokorker"
+        }
+    ]
+}
