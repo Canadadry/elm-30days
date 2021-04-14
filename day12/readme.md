@@ -30,3 +30,10 @@ Okay lets try to unmarshal this json file
     ]
 }
 ```
+
+And this was pretty easy, I find this is the example that allow elm to shine the most. You clearly see all the errors handling and why out cannot have strange runtime issue.
+
+It won't remove the runtime issue when you receive a unexpected json file. The only part I don't like and don't see expanding is the json decoding. I was obliged to use a `map7` , to decode 7 fields. For  fields, you use `map9` ave for 256 fields you use `map256`...
+In fact this not true because `map7`, `map9`, `map256` are real function written by hand, so this is only valid for 9 or less fields....
+
+And more you have to Decode field in the order of field declaration which feel odd and error prone. Did I have written firstname or lastname in first ?
